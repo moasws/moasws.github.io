@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://moasws.github.io/xAd/sitemap.xAd.gz
